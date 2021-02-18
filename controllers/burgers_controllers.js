@@ -37,9 +37,6 @@ router.put("/api/burgers/:id", function (req, res) {
     })
 })
 
-// post and put methods (delete not needed)
-// 13-MVC activity 17
-
 
 
 module.exports = router;
